@@ -10,6 +10,11 @@
             "name": "한국어 (Korean)",
             "translation": "Translation by Kiman Kim"
         },
+        "ko":
+        {
+            "name": "简体中文 (Chinese-Simplified)",
+            "translation": "Translation by UioSun"
+        },
         "ru":
         {
             "name": "Ру́сский (Russian)",
