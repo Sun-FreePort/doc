@@ -7,20 +7,20 @@ github: https://github.com/defold/tutorial-side-scroller
 # Side scroller tutorial
 
 
-The tutorial is integrated with the Defold editor and easily accessible:
+实践本教程非常简单，因为它集成在了 Defold 编辑器中：
 
-1. Start Defold.
-2. Select *New Project* on the left.
-3. Select the *From Tutorial* tab.
-4. Select the "Side scroller tutorial"
-5. Select a location for the project on your local drive and click *Create New Project*.
+1. 启动 Defold.
+2. 选择左侧的 *New Project* 视图。
+3. 选中 *From Tutorial* 分类。
+4. 点选 "Side scroller tutorial" 项目即可。
+5. 确认项目的存放位置和项目名后，你可以点击 *Create New Project* 来开始。
 
 ![new project](images/new-side-scroller.png){srcset="images/new-side-scroller@2x.png 2x"}
 
-The editor automatically opens the "README" file from the project root, containing the full tutorial text.
+默认情况下，编辑器会自动打开 "README" 文件，这包含了本项目的完整教程内容。
 
-![icon](images/icon-tutorial.svg){.icon} [You can also read the full tutorial text on Github](https://github.com/defold/tutorial-side-scroller)
+![icon](images/icon-tutorial.svg){.icon} 当然，[通过 Github 阅读教程也是可以的](https://github.com/defold/tutorial-side-scroller)
 
-If you get stuck, head over to the [Defold Forum](//forum.defold.com) where you will get help from the Defold team and many friendly users.
+如果你遇到了困难，前往 [Defold 论坛](//forum.defold.com) 吧，这里有 Defold 官方团队和更多朋友，在你需要时尽力帮助你。
 
-Happy Defolding!
+祝你玩的愉快！

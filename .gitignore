@@ -1,4 +1,7 @@
+# IDE cache files
 .DS_Store
+.idea
+
 build
 lib/google-cloud-sdk/
 node_modules/

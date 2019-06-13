@@ -3,11 +3,11 @@
         "tutorials":
         [
             {
-                "name": "Overview",
+                "name": "概览",
                 "items": [
                     {
                         "path": "/tutorials/getting-started",
-                        "name": "Getting started"
+                        "name": "起步"
                     }
                 ]
             },

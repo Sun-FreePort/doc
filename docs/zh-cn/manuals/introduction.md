@@ -26,9 +26,7 @@ Lua 语言
 : ![Tutorials](images/introduction/tutorials.jpg){.left} 我们相信你愿意通过实践学习最佳做法。这也是我们在 [编辑器](/manuals/editor/) 内，提供了“多级别的各种技能”的案例教程的缘由。启动编辑器，并通过一到两个教程来学习怎样 Defold 如何运作。
 
 Defold 的独特：模块化
-: ![Building blocks](images/introduction/building_blocks.png){.left} [Defold games are build by composing simple blocks](/manuals/building-blocks/), some of which seem familiar if you have used other engines. There are some architectural design decisions that make the blocks of Defold special and it takes a little while to be comfortable working with them. Our building blocks manual is a good start if you feel you need to understand thoroughly how it's working.
-
-: ![Building blocks](images/introduction/building_blocks.png){.left} [Defold 游戏是通过基本模块组装构成的](/manuals/building-blocks/)，如果你使用过其他引擎，你会有一些熟悉感。通过融入一些建筑学的理念，这让 Defold 的模块化略显特别，所以当你想让它们顺畅工作，这需要投入一点时间来学习。如果你感到你需要理解它的工作原理，“构建模块手册”将是一个良好的开端。
+: ![模块](images/introduction/building_blocks.png){.left} [Defold 游戏是通过基本模块组装构成的](/manuals/building-blocks/)，如果你使用过其他引擎，你会有一些熟悉感。通过融入一些建筑学的理念，这让 Defold 的模块化略显特别，所以当你想让它们顺畅工作，这需要投入一点时间来学习。如果你感到你需要理解它的工作原理，“构建模块手册”将是一个良好的开端。
 
 论坛
 : ![Forum](images/introduction/forum.jpg){.left} [向他人学习](//forum.defold.com/) 通常是良好的学习路径。我们的社区很友好，并相当了解构建游戏与 Defold 的知识。如果你遇到了困难，勿犹豫，请来社区寻求帮助吧！

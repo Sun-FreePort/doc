@@ -3,8 +3,8 @@ title: Installing Defold
 brief: This manual explains how to download and install the Defold editor for your operating system.
 ---
 
-# Installing Defold
+# 安装 Defold
 
-Installation of the Defold editor is quite straightforward. Download the version built for your operating system, extract it and copy the software to a suitable location.
+Defold 编辑器的安装工作极为简单。下载对应你所用系统的软件包，执行它，并选定合适的安装位置。
 
 :[install](../shared/install.md)
